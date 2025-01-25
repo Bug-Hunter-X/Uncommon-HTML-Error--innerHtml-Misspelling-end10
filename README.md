@@ -1,0 +1,1 @@
+This repository demonstrates a common yet easily missed error in HTML: a simple typo in the innerHTML property. The bug.html file contains the erroneous code, while bugSolution.html provides the corrected version.  This error highlights the importance of careful attention to detail in HTML development, as even minor typos can prevent scripts from functioning as intended.
